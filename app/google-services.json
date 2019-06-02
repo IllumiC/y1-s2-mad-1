@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120886868664",
+    "firebase_url": "https://tracksidedad.firebaseio.com",
+    "project_id": "tracksidedad",
+    "storage_bucket": "tracksidedad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120886868664:android:2ce5e8c9829a3f21",
+        "android_client_info": {
+          "package_name": "mt.edu.mcast.liamscerri.tracksidedad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120886868664-0083709bvfcp6gvg73qgehqogtjk21ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mt.edu.mcast.liamscerri.tracksidedad",
+            "certificate_hash": "afa0a24dd1f7c0175dda2a8cf883b5be0adce65e"
+          }
+        },
+        {
+          "client_id": "120886868664-o3radqf66pebt7ep6qis2gjcmmafgf2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTS0W7XKJprRyKAhZMqDXoIMIOA71IZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120886868664-o3radqf66pebt7ep6qis2gjcmmafgf2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

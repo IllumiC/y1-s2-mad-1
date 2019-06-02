@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15080080958",
+    "firebase_url": "https://theoryapp-e372b.firebaseio.com",
+    "project_id": "theoryapp-e372b",
+    "storage_bucket": "theoryapp-e372b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15080080958:android:fea76e0da54b8eee",
+        "android_client_info": {
+          "package_name": "mt.edu.mcast.liamscerri.theoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15080080958-i7ebmacvaoa05748kijl0g2t9ods5khh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mt.edu.mcast.liamscerri.theoryapp",
+            "certificate_hash": "b6d53f741aaad40e4ce1b855ad55489412081004"
+          }
+        },
+        {
+          "client_id": "15080080958-0r865ue17r3top552tjq09t8ococu3l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklR4VhhQE7_LTD2skXuBWAYxk4jdNTpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15080080958-0r865ue17r3top552tjq09t8ococu3l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
